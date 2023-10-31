@@ -1,7 +1,7 @@
 # ASA_meeting_2023
 poster presentation for tri-societies meeting
 10 environments and 5 models
-materials and methods were from Fonseca et al. 2021; https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20127
+Experimental materials were from Fonseca et al. 2021; https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20127
 10 environments
 
 18COL= 2018 Colby
