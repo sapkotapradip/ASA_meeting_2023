@@ -14,3 +14,14 @@ materials and methods were from Fonseca et al. 2021; https://acsess.onlinelibrar
 19HAY = 2019HAYS
 19TA = 2019 Taft
 19VC = 2019 Victoria
+
+#Single environment models
+MODEL 1: Additive and dominance efeects of genomic markers
+MODEL 2: First derivative of NIR
+MODEL 3: Second derivative of NIR
+MODEL 4 : MODEL 1 + MODEL2
+MODEL 5 : MODEL 1 + MODEL3
+
+Above models were extended to predict across environments by including G X E and NIR X E in the models wherever needed !
+All the codes will be available in publication.
+If you have any questions; reachout to prdp@tamu.edu
