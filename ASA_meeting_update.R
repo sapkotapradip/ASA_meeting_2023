@@ -23,4 +23,10 @@ combine
 hadamard product between genomic and phenomic data
 
 
+
+#Germano costa-Neto Envirotyping #
+
+#############Biometric and statistic ########
+
+
 ####
